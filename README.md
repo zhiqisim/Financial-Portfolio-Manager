@@ -4,7 +4,7 @@ Personalized financial portfolio manager to manage stocks, crypto and other asse
 
 ## Technologies
 Project is created with:
-* React (TypeScript)
+* React (JavaScript with Flow)
 * Relay
 * GraphQL
 * Golang
